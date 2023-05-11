@@ -1,0 +1,3 @@
+- [[Install Obsidian]]
+- Self-Paced Learning Readiness Survey
+- Read [Landscape of Merging Modalities](https://er.educause.edu/articles/2020/10/the-landscape-of-merging-modalities)
