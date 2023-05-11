@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"4e6fe2154490fda1","x":-713,"y":-332,"width":400,"height":400,"type":"file","file":"Preparation/Preparation.md"},
+		{"id":"af90a7d9136e23ef","x":-176,"y":-160,"width":296,"height":60,"type":"text","text":"Self-Paced Learning Workshop"}
+	],
+	"edges":[
+		{"id":"e49c9c8a4e0f9600","fromNode":"af90a7d9136e23ef","fromSide":"left","toNode":"4e6fe2154490fda1","toSide":"right"}
+	]
+}
