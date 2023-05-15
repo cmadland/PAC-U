@@ -11,14 +11,11 @@
             "id": "f4c8cb59cc763f1f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Visual Agenda.canvas",
-                "viewState": {
-                  "x": -294.81000000000023,
-                  "y": -53.00999999999998,
-                  "zoom": 0
-                }
+                "file": "Before we meet/Preparation.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -51,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "]]",
+                "query": "PAC-U",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Preparation/Preparation.md",
+                "file": "Before we meet/Preparation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Preparation/Preparation.md",
+                "file": "Before we meet/Preparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Preparation/Preparation.md"
+                "file": "Before we meet/Preparation.md"
               }
             }
           }
@@ -151,37 +148,40 @@
   },
   "active": "f4c8cb59cc763f1f",
   "lastOpenFiles": [
-    "Spaced Repetition Board.md",
-    "Visual Agenda.canvas",
+    "Before we meet/Install Obsidian.md",
+    "Install Obsidian.pdf",
+    "Day 2/Tools for interaction and engagement.md",
+    "Day 2/Scheduling.md",
+    "Day 2/Learner Motivation.md",
+    "Day 1/TWU Blueprint.md",
+    "Before we meet/Preparation.md",
     "Self-Paced Learning Readiness Survey.md",
-    "Preparation/Preparation.md",
+    "_Media/edit-button.png",
+    "_Media/scale-of-llama.png",
+    "scale-of-llama.webp",
+    "scale-of-llama.webp.crdownload",
+    "Visual Agenda.canvas",
+    "Spaced Repetition Board.md",
     "Agenda.md",
     "README.md",
     "_Media/folder.png",
     "_Media/trust.png",
-    "Preparation/Install Obsidian.md",
     "Untitled.md",
     "_Files/Tentative Agenda.docx",
     "Pasted image 20230511145231.png",
-    "Preparation",
+    "Before we meet",
     "_Media/open-vault.png",
     "Screenshot 2023-05-11 at 2.52.53 PM.png",
-    "Day-2",
-    "Day-1",
+    "Day 2",
+    "Day 1",
     "_Templates",
     "_Files",
     "_Media",
     "_Media/obsidian-dl.png",
     "Pasted image 20230509154321.png",
-    "Day-2/Tools for interaction and engagement.md",
-    "Day-1/Definitions.md",
+    "Day 1/Definitions.md",
     "Tentative Agenda 1.md",
     "~$ntative Agenda.docx",
-    "Tentative Agenda.docx",
-    "Day-1/Technology Overview.md",
-    "Day-2/Scheduling.md",
-    "_Files/Tentative Agenda.pdf",
-    "Day-1/TWU Blueprint.md",
-    "Day-2/Learner Motivation.md"
+    "Day 1/Technology Overview.md"
   ]
 }

@@ -4,6 +4,7 @@ Follow these instructions to access and edit the course materials with Obsidian.
 
 - [Visit this link](https://github.com/cmadland/PAC-U/archive/refs/heads/main.zip) to download the course materials to your computer.
 - Expand the compressed file.
+- Rename the folder "PACU"
 
 ## 2. Download Obsidian
 Go to <https://obsidian.md> and download the app. Obsidian is a free and open source note-taking app with many features.
@@ -19,7 +20,7 @@ Click 'Open folder as vault'.
 
 ## 4. Select the Vault Folder
 
-Find the expanded "PAC-U" folder
+Find the expanded "PACU" folder and open it.
 
 ![[folder.png]]
 
