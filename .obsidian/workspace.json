@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 2/01 - Assessment in Self-paced Learning.md",
+                "file": "Before We Meet/Getting Started.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 2/01 - Assessment in Self-paced Learning.md",
+                "file": "Before We Meet/Getting Started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 2/01 - Assessment in Self-paced Learning.md",
+                "file": "Before We Meet/Getting Started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 2/01 - Assessment in Self-paced Learning.md"
+                "file": "Before We Meet/Getting Started.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "f4c8cb59cc763f1f",
   "lastOpenFiles": [
-    "Day 2/02 - Tools for Interaction and Engagement.md",
     "Day 2/01 - Assessment in Self-paced Learning.md",
+    "Day 2/02 - Tools for Interaction and Engagement.md",
     "Day 1/03 - TWU Blueprint.md",
     "Day 1/01 - Technology Overview.md",
     "Before We Meet/Getting Started.md",
