@@ -11,8 +11,10 @@
             "id": "b196bda7652cbd31",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "_Files/Getting Started.pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "_Files/Getting Started.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "_Files/Getting Started.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +111,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "_Files/Getting Started.pdf"
+          }
         }
       }
     ],
@@ -125,6 +131,17 @@
   },
   "active": "b196bda7652cbd31",
   "lastOpenFiles": [
+    "Before we meet/Getting Started.md",
+    "Before we meet/Preparation.md",
+    "Day 1/Definitions.md",
+    "_Files/Markdown Guide.md",
+    "_Files/Getting Started.pdf",
+    "_Media/edit-button.png",
+    "Self-Paced Learning Readiness Survey.md",
+    "Visual Agenda.canvas",
+    "_Media/scale-of-llama.png",
+    "Install Obsidian.pdf",
+    "README.md",
     "Untitled.md",
     "Pasted image 20230511152206.png",
     "_Media/open-vault.png",

@@ -4,4 +4,4 @@ These notes are yours!
 
 You are encouraged to edit, revise, add to, manipulate, personalize, and share your thoughts, questions, and criticisms along the way.
 
-To begin, click [[Agenda]]!
+To begin, click [[Getting Started]] in the `Before We Meet` folder.

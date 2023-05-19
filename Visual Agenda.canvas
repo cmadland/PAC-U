@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"af90a7d9136e23ef","x":-176,"y":-160,"width":296,"height":60,"type":"text","text":"Self-Paced Learning Workshop"},
-		{"id":"4e6fe2154490fda1","x":-713,"y":-332,"width":293,"height":132,"type":"file","file":"Before we meet/Preparation.md"},
-		{"id":"e018260486a667c4","x":-949,"y":-141,"width":250,"height":60,"type":"text","text":"Day 1"},
-		{"id":"6b413b44620715e5","x":-1680,"y":-191,"width":371,"height":50,"type":"file","file":"Day 1/Definitions.md"},
-		{"id":"9c8a6a299e8a7239","x":-1680,"y":-111,"width":371,"height":51,"type":"file","file":"Day 1/Technology Overview.md"},
-		{"id":"93c9adb5e628012d","x":-1680,"y":-40,"width":371,"height":50,"type":"file","file":"Day 1/TWU Blueprint.md"}
+		{"type":"text","text":"# Self-Paced Learning Workshop","id":"af90a7d9136e23ef","x":-176,"y":-160,"width":336,"height":100},
+		{"type":"file","file":"Before We Meet/Preparation.md","id":"4e6fe2154490fda1","x":-713,"y":-332,"width":293,"height":132},
+		{"type":"text","text":"# Day 1","id":"e018260486a667c4","x":-949,"y":-141,"width":250,"height":60},
+		{"type":"file","file":"Day 1/03 - TWU Blueprint.md","id":"93c9adb5e628012d","x":-1680,"y":-40,"width":371,"height":50},
+		{"type":"file","file":"Day 1/02 - Definitions.md","id":"6b413b44620715e5","x":-1680,"y":-135,"width":371,"height":50},
+		{"type":"file","file":"Day 1/01 - Technology Overview.md","id":"9c8a6a299e8a7239","x":-1680,"y":-280,"width":371,"height":105}
 	],
 	"edges":[
 		{"id":"e49c9c8a4e0f9600","fromNode":"af90a7d9136e23ef","fromSide":"left","toNode":"4e6fe2154490fda1","toSide":"right"},

@@ -7,11 +7,11 @@ kanban-plugin: basic
 ## First Review
 
 - [ ] [[Preparation]] @{2023-05-19}
-- [ ] [[Definitions]] @{2023-05-22} ^tau3iy
-- [ ] [[Technology Overview]] @{2023-05-22}
-- [ ] [[TWU Blueprint]] @{2023-05-22}
-- [ ] [[Assessment in Self-Paced Learning]] @{2023-05-23}
-- [ ] [[Tools for interaction and engagement]] @{2023-05-23}
+- [ ] [[02 - Definitions]] @{2023-05-22} ^tau3iy
+- [ ] [[01 - Technology Overview]] @{2023-05-22}
+- [ ] [[03 - TWU Blueprint]] @{2023-05-22}
+- [ ] [[01 - Assessment in Self-paced Learning]] @{2023-05-23}
+- [ ] [[02 - Tools for Interaction and Engagement]] @{2023-05-23}
 
 
 ## Second Review

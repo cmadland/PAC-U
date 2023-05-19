@@ -28,9 +28,9 @@ This agenda will be enacted via a blend of modalities, including synchronous, as
 
 #### [[Introductions]] 
 
-#### [[Technology Overview]]
+#### [[01 - Technology Overview]]
 
-#### [[Definitions]]
+#### [[02 - Definitions]]
 - Modalities 
 	- Synchronoous/Asynchronous
 	- Consecutive/Concurrent
@@ -39,7 +39,7 @@ This agenda will be enacted via a blend of modalities, including synchronous, as
 
 ### Afternoon
 
-#### [[TWU Blueprint]]
+#### [[03 - TWU Blueprint]]
 - Backwards Design
 - Pedagogical strategies
 	- spaced repetition
@@ -55,14 +55,14 @@ This agenda will be enacted via a blend of modalities, including synchronous, as
 
 ### Morning
 
-#### [[Assessment in Self-paced Learning]]
+#### [[01 - Assessment in Self-paced Learning]]
 - Defining Assessment
 - Purposes of Assessment
 - Building Evaluative Judgement
 
 ### Afternoon
 
-#### [[Tools for interaction and engagement]]
+#### [[02 - Tools for Interaction and Engagement]]
 - Defining Interaction
 - Micro-learning
 - Video

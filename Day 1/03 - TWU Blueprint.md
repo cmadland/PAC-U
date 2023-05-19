@@ -1,3 +1,7 @@
+## Why a blueprint?
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cDA3_5982h8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Blueprint for ...
 
 - Moodle Master site: < URL >

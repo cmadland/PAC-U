@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Before we meet/Preparation.md",
+                "file": "Day 2/01 - Assessment in Self-paced Learning.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Before we meet/Preparation.md",
+                "file": "Day 2/01 - Assessment in Self-paced Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Before we meet/Preparation.md",
+                "file": "Day 2/01 - Assessment in Self-paced Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Before we meet/Preparation.md"
+                "file": "Day 2/01 - Assessment in Self-paced Learning.md"
               }
             }
           }
@@ -148,40 +148,43 @@
   },
   "active": "f4c8cb59cc763f1f",
   "lastOpenFiles": [
-    "Before we meet/Install Obsidian.md",
-    "Install Obsidian.pdf",
-    "Day 2/Tools for interaction and engagement.md",
-    "Day 2/Scheduling.md",
-    "Day 2/Learner Motivation.md",
-    "Day 1/TWU Blueprint.md",
-    "Before we meet/Preparation.md",
-    "Self-Paced Learning Readiness Survey.md",
+    "Day 2/02 - Tools for Interaction and Engagement.md",
+    "Day 2/01 - Assessment in Self-paced Learning.md",
+    "Day 1/03 - TWU Blueprint.md",
+    "Day 1/01 - Technology Overview.md",
+    "Before We Meet/Getting Started.md",
+    "README.md",
+    "Before We Meet/Preparation.md",
+    "Day 1/02 - Definitions.md",
+    "Visual Agenda.canvas",
+    "Agenda.md",
+    "Extra",
+    "Extra/Scheduling.md",
+    "Extra/Learner Motivation.md",
+    "_Files/Self-Paced Learning Readiness Survey.md",
+    "_Files/Getting Started.pdf",
+    "_Files/Tentative Agenda.pdf",
+    "_Files/Markdown Guide.md",
+    "markdown-cheat-sheet.md",
+    "01-START HERE.pdf",
     "_Media/edit-button.png",
     "_Media/scale-of-llama.png",
     "scale-of-llama.webp",
     "scale-of-llama.webp.crdownload",
-    "Visual Agenda.canvas",
     "Spaced Repetition Board.md",
-    "Agenda.md",
-    "README.md",
     "_Media/folder.png",
     "_Media/trust.png",
     "Untitled.md",
     "_Files/Tentative Agenda.docx",
     "Pasted image 20230511145231.png",
-    "Before we meet",
+    "Before We Meet",
     "_Media/open-vault.png",
     "Screenshot 2023-05-11 at 2.52.53 PM.png",
     "Day 2",
     "Day 1",
     "_Templates",
-    "_Files",
-    "_Media",
     "_Media/obsidian-dl.png",
     "Pasted image 20230509154321.png",
-    "Day 1/Definitions.md",
-    "Tentative Agenda 1.md",
-    "~$ntative Agenda.docx",
-    "Day 1/Technology Overview.md"
+    "Tentative Agenda 1.md"
   ]
 }
