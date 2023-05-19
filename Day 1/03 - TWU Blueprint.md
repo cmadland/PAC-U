@@ -2,6 +2,8 @@
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cDA3_5982h8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+This video is a great example of the importance of clear commentary in a self-paced course. What might seem clear in your mind, won't necessarily translate into clarity for a learner. At TWU, we use a blueprint as a map and guide for a design project. The blueprint allows us to work backwards from the learning outcomes and goals of the course, to how those learning outcomes will be assessed.
+
 ## Blueprint for ...
 
 - Moodle Master site: < URL >
