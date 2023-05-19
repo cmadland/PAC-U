@@ -1,3 +1,4 @@
 - [[Markdown Guide]]
 - Using Obsidian to take notes and connect ideas
 	- hyperlinks and wikilinks
+- [TWU Multi-Access Resource](https://multi-access.twu.ca)

@@ -1,7 +1,35 @@
 ## What is Assessment?
 
-## Why do we assess learning?
+![[assessment-triangle.png]]
 
-## What do we assess?
+## Purposes of Assessment
 
-## How do we assess self-paced learning?
+- assessment **OF** learning
+- assessment **FOR** learning
+- assessment **AS** learning
+
+## Pedagogy
+
+- Learner agency
+- Relationship
+- Community
+
+## Fairness
+
+- Inclusive design
+- Bias
+- Academic integrity
+
+## Assessment Process
+
+- assessment design
+- measurement theory
+- feedback design
+
+## Technology
+
+- Modality
+- Digital literacy
+- Learning process
+
+
