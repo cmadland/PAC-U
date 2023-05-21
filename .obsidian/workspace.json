@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 1/02 - Definitions.md",
+                "file": "Day 1/03 - TWU Blueprint.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 1/02 - Definitions.md",
+                "file": "Day 1/03 - TWU Blueprint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 1/02 - Definitions.md",
+                "file": "Day 1/03 - TWU Blueprint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 1/02 - Definitions.md"
+                "file": "Day 1/03 - TWU Blueprint.md"
               }
             }
           }
@@ -148,10 +148,14 @@
   },
   "active": "f4c8cb59cc763f1f",
   "lastOpenFiles": [
-    "Day 1/03 - TWU Blueprint.md",
     "Day 1/02 - Definitions.md",
     "Day 1/01 - Technology Overview.md",
     "Day 2/01 - Assessment in Self-paced Learning.md",
+    "01 - Assessment in Self-paced Learning.md",
+    "_Files/bowerTechnologyMediatedLearning2019.pdf",
+    "_Files/sambellAssessmentLearningHigher2013.pdf",
+    "_Files/taiDevelopingEvaluativeJudgement2018.pdf",
+    "Day 1/03 - TWU Blueprint.md",
     "_Media/assessment-triangle.png",
     "Before We Meet/Getting Started.md",
     "Day 2/02 - Tools for Interaction and Engagement.md",
@@ -181,9 +185,6 @@
     "Before We Meet",
     "_Media/open-vault.png",
     "Screenshot 2023-05-11 at 2.52.53 PM.png",
-    "Day 2",
-    "Day 1",
-    "_Templates",
     "_Media/obsidian-dl.png",
     "Tentative Agenda 1.md"
   ]

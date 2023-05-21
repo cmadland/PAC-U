@@ -11,9 +11,11 @@
             "id": "b196bda7652cbd31",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "_Files/Getting Started.pdf"
+                "file": "Day 2/01 - Assessment in Self-paced Learning.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_Files/Getting Started.pdf",
+            "file": "Day 2/01 - Assessment in Self-paced Learning.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_Files/Getting Started.pdf",
+            "file": "Day 2/01 - Assessment in Self-paced Learning.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_Files/Getting Started.pdf"
+            "file": "Day 2/01 - Assessment in Self-paced Learning.md"
           }
         }
       }
@@ -131,11 +133,17 @@
   },
   "active": "b196bda7652cbd31",
   "lastOpenFiles": [
+    "_Media/assessment-triangle.png",
+    "Agenda.md",
+    "Day 2/01 - Assessment in Self-paced Learning.md",
+    "01 - Assessment in Self-paced Learning.md",
+    "Day 1/02 - Definitions.md",
+    "Day 2/02 - Tools for Interaction and Engagement.md",
+    "_Files/Getting Started.pdf",
     "Before we meet/Getting Started.md",
     "Before we meet/Preparation.md",
     "Day 1/Definitions.md",
     "_Files/Markdown Guide.md",
-    "_Files/Getting Started.pdf",
     "_Media/edit-button.png",
     "Self-Paced Learning Readiness Survey.md",
     "Visual Agenda.canvas",
@@ -157,7 +165,6 @@
     "Technology Overview.md",
     "Scheduling.md",
     "Learner Motivation.md",
-    "TWU Blueprint.md",
-    "Agenda.md"
+    "TWU Blueprint.md"
   ]
 }
