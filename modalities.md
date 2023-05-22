@@ -1,0 +1,2 @@
+>[!note] Note
+> Bower defines modalities as "representational (semiotic) resources that are used to make meaning, such as images, sound, text and video (from Jewitt, 2006)" whereas [Irvine (2020) defines modalities as referring to the timing and location of learning.](obsidian://open?vault=PAC-U&file=Day%201%2F02%20-%20Definitions)

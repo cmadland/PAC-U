@@ -71,7 +71,7 @@ Note: Clear success criteria must be provided. Instead of assessing the task, we
 
 ## Assessment
 
-Assessment is the process of gathering data about what learners know and can do, and then interpreting that data either to determine a final grade based on the learner's performance (assessment *of* learning), to inform future teaching (assessment *for* learning), or to build learners' capacity for evaluative judgement (assessment *as* learning). [You can read more about assessment here.](https://multi-access.twu.ca/assessment)
+Assessment is the process of gathering data about what learners know and can do, and then interpreting that data either to determine a final grade based on the learner's performance (assessment *of* learning), to inform future teaching (assessment *for* learning), or to build learners' capacity for evaluative judgement (assessment *as* learning). [You can read more about assessment here.](https://multi-access.twu.ca/assessment) and here -> [[01 - Assessment in Self-paced Learning]]
 
 ### Feedback Design
 

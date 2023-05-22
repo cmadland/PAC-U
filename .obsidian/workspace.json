@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0f43db8ce5d40aa9",
+        "id": "0180f5479a2f24a8",
         "type": "tabs",
         "children": [
           {
-            "id": "f4c8cb59cc763f1f",
+            "id": "c17f22f7d5136463",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 1/03 - TWU Blueprint.md",
+                "file": "Day 1/02 - Definitions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 1/03 - TWU Blueprint.md",
+                "file": "Day 1/02 - Definitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 1/03 - TWU Blueprint.md",
+                "file": "Day 1/02 - Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 1/03 - TWU Blueprint.md"
+                "file": "Day 1/02 - Definitions.md"
               }
             }
           }
@@ -146,19 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4c8cb59cc763f1f",
+  "active": "c17f22f7d5136463",
   "lastOpenFiles": [
-    "Day 1/02 - Definitions.md",
     "Day 1/01 - Technology Overview.md",
+    "Day 1/02 - Definitions.md",
+    "modalities.md",
+    "_Files/irvineLandscapeMergingModalities2020.pdf",
+    "Day 2/02 - Tools for Interaction and Engagement.md",
+    "_Files/shuellCognitiveConceptionsLearning1986.pdf",
     "Day 2/01 - Assessment in Self-paced Learning.md",
+    "Day 1/03 - TWU Blueprint.md",
+    "[[01.md",
     "01 - Assessment in Self-paced Learning.md",
     "_Files/bowerTechnologyMediatedLearning2019.pdf",
     "_Files/sambellAssessmentLearningHigher2013.pdf",
     "_Files/taiDevelopingEvaluativeJudgement2018.pdf",
-    "Day 1/03 - TWU Blueprint.md",
     "_Media/assessment-triangle.png",
     "Before We Meet/Getting Started.md",
-    "Day 2/02 - Tools for Interaction and Engagement.md",
     "README.md",
     "Before We Meet/Preparation.md",
     "Visual Agenda.canvas",
@@ -180,9 +184,7 @@
     "_Media/folder.png",
     "_Media/trust.png",
     "Untitled.md",
-    "_Files/Tentative Agenda.docx",
     "Pasted image 20230511145231.png",
-    "Before We Meet",
     "_Media/open-vault.png",
     "Screenshot 2023-05-11 at 2.52.53 PM.png",
     "_Media/obsidian-dl.png",

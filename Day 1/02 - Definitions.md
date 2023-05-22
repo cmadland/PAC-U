@@ -1,8 +1,15 @@
 Feel free to use this page to record key terms and ideas that you encounter.
 
-> [!note] [Landscape of Merging Modalities](https://er.educause.edu/articles/2020/10/the-landscape-of-merging-modalities)
+> [!note] Resource
+> Irvine, V. (2020). The Landscape of merging modalities. _EDUCAUSE Review_, _2020_(4), 40–58. 
+>   - [Landscape of Merging Modalities](https://er.educause.edu/articles/2020/10/the-landscape-of-merging-modalities)
+>   - [[irvineLandscapeMergingModalities2020.pdf]]
 
 
+## Transactional Distance
+
+> [!note] Resource
+> 
 ## Modality
 
 - timing (synchronous/asynchronous)
@@ -26,5 +33,5 @@ Feel free to use this page to record key terms and ideas that you encounter.
 - face-to-face 
 - synchronous online
 - asynchronous online
-- open access.
+- open access
 - 

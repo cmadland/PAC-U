@@ -1,7 +1,9 @@
 
 > Rather, if students are to learn desired outcomes in a reasonably effective manner, then the teacher's fundamental task is to get students to engage in learning activities that are likely to result in their achieving these outcomes, taking into account factors such as prior knowledge, the context in which the material is presented, and the realization that students' interpretation and understanding of new information depend on the availability of appropriate schemata. Without taking away from the important role played by the teacher, it is helpful to remember that ==what the student does is actually more important in determining what is learned than what the teacher does.==  (p. 429)
 
-> [!note] Shuell, T. J. (1986). Cognitive Conceptions of Learning. _Review of Educational Research_, _56_(4), 411–436. JSTOR. [https://doi.org/10.2307/1170340](https://doi.org/10.2307/1170340)
+> [!note] Resource
+> Shuell, T. J. (1986). Cognitive Conceptions of Learning. _Review of Educational Research_, _56_(4), 411–436. JSTOR. [https://doi.org/10.2307/1170340](https://doi.org/10.2307/1170340)
+> ![[shuellCognitiveConceptionsLearning1986.pdf]]
 
 
 - [Obsidian](https://obsidian.md)

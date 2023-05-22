@@ -15,7 +15,9 @@
 > 	1. Be a means of conveying. 
 > 	2. Form a link between.
 
-> Fundamental assumption of technology-mediated learning: In technology-mediated learning contexts, agentic intentions reside with humans, and not with technology (p. 1037)
+### Fundamental assumption of technology-mediated learning
+
+> In technology-mediated learning contexts, agentic intentions reside with humans, and not with technology (p. 1037)
 
 ### Premises of technology-mediated learning (pp. 1038-1041)
 
@@ -23,6 +25,6 @@
 2. In technology-mediated learning contexts, participant beliefs, knowledge, practices and the environment all mutually influence one another
 3. In technology-mediated learning settings, the role of teachers is to help optimise student learning outcomes and experiences through the purposeful deployment of learning technologies
 4. The affordances of technologies, including their recognition and use, influences the sorts of representation, interaction, production and learning that can take place
-5. The way in which modalities are used and combined influences the way in which meaning is processed, interpreted, created and interrelated
+5. The way in which [[modalities]] are used and combined influences the way in which meaning is processed, interpreted, created and interrelated
 6. The way in which technology is used to mediate interaction patterns and possibilities between networks of participants influences the learning that takes place
 7. Arrangements of technologies and the way they are used can influence the sense of presence and community that are experienced
