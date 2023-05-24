@@ -11,11 +11,9 @@
             "id": "c17f22f7d5136463",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Day 1/02 - Definitions.md",
-                "mode": "source",
-                "source": false
+                "file": "_Files/taiDevelopingEvaluativeJudgement2018.pdf"
               }
             }
           }
@@ -69,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a7f2391a1133e5ce",
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 1/02 - Definitions.md",
+                "file": "_Files/taiDevelopingEvaluativeJudgement2018.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 1/02 - Definitions.md",
+                "file": "_Files/taiDevelopingEvaluativeJudgement2018.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 1/02 - Definitions.md"
+                "file": "_Files/taiDevelopingEvaluativeJudgement2018.pdf"
               }
             }
           }
@@ -148,23 +146,26 @@
   },
   "active": "c17f22f7d5136463",
   "lastOpenFiles": [
-    "Day 1/01 - Technology Overview.md",
-    "Day 1/02 - Definitions.md",
-    "modalities.md",
-    "_Files/irvineLandscapeMergingModalities2020.pdf",
-    "Day 2/02 - Tools for Interaction and Engagement.md",
-    "_Files/shuellCognitiveConceptionsLearning1986.pdf",
     "Day 2/01 - Assessment in Self-paced Learning.md",
     "Day 1/03 - TWU Blueprint.md",
+    "Day 2/02 - Tools for Interaction and Engagement.md",
+    "Day 1/02 - Definitions.md",
+    "Spaced Repetition Board.md",
+    "_Files/Markdown Guide.md",
+    "Day 1/01 - Technology Overview.md",
+    "kenya.md",
+    "modalities.md",
+    "Before We Meet/Getting Started.md",
+    "Before We Meet/Preparation.md",
+    "_Files/irvineLandscapeMergingModalities2020.pdf",
+    "_Files/shuellCognitiveConceptionsLearning1986.pdf",
     "[[01.md",
     "01 - Assessment in Self-paced Learning.md",
     "_Files/bowerTechnologyMediatedLearning2019.pdf",
     "_Files/sambellAssessmentLearningHigher2013.pdf",
     "_Files/taiDevelopingEvaluativeJudgement2018.pdf",
     "_Media/assessment-triangle.png",
-    "Before We Meet/Getting Started.md",
     "README.md",
-    "Before We Meet/Preparation.md",
     "Visual Agenda.canvas",
     "Agenda.md",
     "Extra",
@@ -173,14 +174,12 @@
     "_Files/Self-Paced Learning Readiness Survey.md",
     "_Files/Getting Started.pdf",
     "_Files/Tentative Agenda.pdf",
-    "_Files/Markdown Guide.md",
     "markdown-cheat-sheet.md",
     "01-START HERE.pdf",
     "_Media/edit-button.png",
     "_Media/scale-of-llama.png",
     "scale-of-llama.webp",
     "scale-of-llama.webp.crdownload",
-    "Spaced Repetition Board.md",
     "_Media/folder.png",
     "_Media/trust.png",
     "Untitled.md",

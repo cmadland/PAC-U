@@ -1,3 +1,5 @@
+> From the students' perspective, assessment always defines the curriculum
+
 ## What is Assessment?
 
 ![[assessment-triangle.png]]

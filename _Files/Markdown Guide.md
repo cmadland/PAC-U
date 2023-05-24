@@ -19,7 +19,7 @@ These are the elements outlined in John Gruber’s original design document. All
 
 ### Bold
 
-**bold text**
+***bold text***
 
 ### Italic
 
@@ -125,3 +125,5 @@ H~2~O
 ### Superscript
 
 X^2^
+
+[[Getting Started]]

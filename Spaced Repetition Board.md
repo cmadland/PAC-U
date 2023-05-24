@@ -6,8 +6,6 @@ kanban-plugin: basic
 
 ## First Review
 
-- [ ] [[Preparation]] @{2023-05-19}
-- [ ] [[02 - Definitions]] @{2023-05-22} ^tau3iy
 - [ ] [[01 - Technology Overview]] @{2023-05-22}
 - [ ] [[03 - TWU Blueprint]] @{2023-05-22}
 - [ ] [[01 - Assessment in Self-paced Learning]] @{2023-05-23}
@@ -16,10 +14,12 @@ kanban-plugin: basic
 
 ## Second Review
 
+- [ ] [[Preparation]] @{2023-05-23}
 
 
 ## Third Review
 
+- [ ] [[02 - Definitions]] @{2023-05-27} ^tau3iy
 
 
 ## Mastered

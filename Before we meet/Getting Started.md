@@ -4,6 +4,9 @@ Obsidian is highly recommended for this workflow, but you can follow along with 
 
 ## 1. Download the Course Materials
 
+## https://bit.ly/pac-u
+
+
 - [Visit this link](https://github.com/cmadland/PAC-U/archive/refs/heads/main.zip) to download the course materials to your computer.
 - Expand the compressed file.
 - Rename the folder "PACU"
@@ -11,7 +14,9 @@ Obsidian is highly recommended for this workflow, but you can follow along with 
 
 ## 2. Download Obsidian
 
-- Go to <https://obsidian.md> and download the app. Obsidian is a free and open source note-taking app with many features.
+- Go to 
+# <https://obsidian.md> 
+and download the app. Obsidian is a free and open source note-taking app with many features.
 
 ![[obsidian-dl.png]]
 
